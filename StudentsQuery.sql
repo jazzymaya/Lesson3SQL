@@ -1,0 +1,3 @@
+SELECT AVG(GPA) FROM Students
+SELECT * FROM Students WHERE GPA>3.0
+SELECT * FROM Students WHERE FirstName LIKE '_a%'
